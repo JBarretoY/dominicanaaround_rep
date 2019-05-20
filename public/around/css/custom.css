@@ -1,0 +1,119 @@
+/* Your custom css code goes here */
+.my-navbar{
+	position: absolute;
+	top: 180px;
+	width: 100%;
+	z-index: 999
+}
+p.call-us{
+	font-size: 3.0em;
+	color: #f5f0f0;
+	margin-bottom: 0em;
+}
+a{
+	color: #3e9034;
+}
+a.redes{
+	color: #e8dce5;
+}
+a.redes:hover {
+  color: #707072;
+}
+.btn.btn-primary:hover{
+	border: 2px solid #fff;
+    background: #349048;
+    color: #fff;
+}
+.book-now {
+    background-color: #e3d8c4;
+    color: #407B1E;
+    text-shadow: 1px 1px #19164c;
+    font-size: 30px;
+}
+.tour-list-text:hover {
+    background-color: #407B1E;
+}
+.tour-list-text p:hover{
+    color: #e3d8c4 !important;
+    text-shadow: 1px 1px #19164c;
+}
+.img-logo-header {
+  width: 22%;
+}
+p.tour-title{
+	text-align: right;
+	color: rgba(72, 125, 23, 0.98) !important;
+	font-size: 30px;
+	margin-bottom: -0.1px
+}
+h3.tour-title{
+	color: #349048;
+    font-size: 50px;
+}
+hr.experiences{
+    margin-top: 0;
+	border: 10px;
+    height: 10px;
+    width: 60%;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(46, 111, 24), rgba(0, 0, 0, 0));
+}
+hr.vertical{
+    text-align: center;
+    border:  none;
+    border-left: 5px solid #e3d8c4;
+    height: 55vh;
+    width: 0;
+    margin-top: 10vh;
+}
+hr.horizontal{
+    margin-top: 0;
+    margin-bottom: 0;
+    border:  none;
+    border-top: 5px solid #e3d8c4;
+    width: 75%;
+    border-radius: 10px;
+}
+.probootstrap-owl-navigation li a:hover {
+    background: #147113;
+    color: #fff;
+}
+
+.probootstrap-main-nav li a {
+    text-transform: uppercase;
+    padding: 0;
+    color: rgb(42, 169, 19);
+    font-size: 18px;
+}
+.probootstrap-main-nav li a:hover {
+    text-transform: uppercase;
+    padding: 0;
+    color: rgb(19, 21, 19);
+    font-size: 18px;
+}
+.header-top {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 100%;
+    z-index: 4;
+    top: 0;
+}
+.header-top-mobile{
+	padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    z-index: 4;
+    top: 0;
+}
+body{
+	font-size: 5px !important;
+}
+.probootstrap-burger-menu {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.about-footer{
+    color: #fff;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 3em;
+}
